@@ -9,7 +9,7 @@
     "admobBanner": "ca-app-pub-3940256099942544/6300978111",
     "admobInterstitial": "ca-app-pub-3940256099942544/1033173712",
 
-    "modeads": true,
+    "modeads": false,
     "IMG1_URL": "https://cross-pan.netlify.app/c69-5.jpg",
     "TEXT1_URL": "https://play.google.com/store/apps/details?id=com.tocaboca_mermaid.tocaworld_dressup",
     "IMG2_URL": "https://cross-pan.netlify.app/c69-6.jpg",
